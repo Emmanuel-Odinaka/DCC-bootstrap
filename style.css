@@ -1,0 +1,36 @@
+body {
+    margin-bottom: 0px;
+    background-color: rgb(2, 29, 29);
+    background-size: cover;
+    color: rgb(209, 205, 205);
+    
+}
+footer {
+    height: 6rem;
+    line-height: 6rem;
+    margin: 0.9rem;
+    font-size: 1.5rem;
+    
+}
+
+.jumbotron {
+    background-color: rgb(23, 102, 148);
+    color: rgb(2, 29, 29);
+}
+.box{
+    border: 8px solid transparent;
+    background-clip: padding-box;
+}
+.input-size {
+    margin: 0 0 10px 0;
+}
+
+.navbar .navbar-nav li a{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.navbar .navbar-nav li a:hover {
+    font-size: 20px;
+    color: rgb(189, 189, 230) !important;
+}
